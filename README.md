@@ -56,6 +56,9 @@
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Desktop.svg" alt="powerbi" width="40" height="40"/>
   </a>
+  <a href="[https://powerbi.microsoft.com/en-us/](https://sqlitebrowser.org/)" target="_blank" rel="noreferrer">
+    <img src="https://sqlitebrowser.org/images/sqlitebrowser.svg" alt="dbsqlite" width="40" height="40"/>
+  </a>
 </p>
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=silver4sh&&theme=xcode)](https://github.com/silver4sh)
