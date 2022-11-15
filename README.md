@@ -18,9 +18,6 @@
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=silver4sh&&theme=xcode)](https://github.com/silver4sh)
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=silver4sh&show_icons=true&locale=en&theme=tokyonight" alt="petriksirait" /></p>
-<br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=silver4sh&&theme=tokyonight" alt="petriksirait" /></p>
-<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silver4sh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="petriksirait" /></p>
