@@ -20,7 +20,7 @@
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=silver4sh&&theme=xcode)](https://github.com/silver4sh)
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=silver4sh&show_icons=true&locale=en&theme=tokyonight" alt="petriksirait" /></p>
-
+<br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=silver4sh&&theme=tokyonight" alt="petriksirait" /></p>
-
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silver4sh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="petriksirait" /></p>
