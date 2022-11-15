@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/67607955080161.597768d22e415.gif)
 <h1 align="center">Hi 👋, I'm Petrik Insan Jhon Ramses Sirait</h1>
 <h3 align="center">A passionate Data Enthusiast from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Data" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fanalyticsindiamag.com%2Fwp-content%2Fuploads%2F2018%2F12%2Fdeveloper-dribbble.gif&f=1&nofb=1&ipt=a0911645bd4bc6bd200a8e35d40055702f1d9946deba95fe9294a4ff6d11f7de&ipo=images">
 
 - 🌱 I’m currently learning **Data Analyst, Data Science, Machine Learning**
 - 👀 I’m interested in Data related stuff
