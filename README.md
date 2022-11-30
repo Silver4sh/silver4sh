@@ -7,7 +7,7 @@
 - 👀 I’m interested in Data related stuff
 - 📫 How to reach me 
 <br>           Email: **thesirait01@gmail.com**
-<br>           Phone: **+62-878-7713-2733**
+<br>           Phone: **+62 851-5804-0212**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
