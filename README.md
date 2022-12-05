@@ -61,7 +61,6 @@
   </a>
 </p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=silver4sh&&theme=xcode)](https://github.com/silver4sh)
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=silver4sh&show_icons=true&locale=en&theme=tokyonight" alt="petriksirait"/>
 </p>
