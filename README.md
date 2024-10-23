@@ -62,11 +62,5 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=silver4sh&show_icons=true&locale=en&theme=tokyonight" alt="petriksirait"/>
-</p>
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=silver4sh&&theme=tokyonight" alt="petriksirait"/>
-</p>
-<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silver4sh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="petriksirait"/>
 </p>
