@@ -16,9 +16,8 @@
 
 <!-- Badge Row -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Jakarta%2C%20Indonesia-0078D4?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-brightgreen?style=for-the-badge&logo=handshaking" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Visualization-FF6F00?style=for-the-badge&logo=chart" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Indonesia-0078D4?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Statistics-FF6F00?style=for-the-badge&logo=chart" alt="Focus" />
 </p>
 
 <!-- Social Links -->
